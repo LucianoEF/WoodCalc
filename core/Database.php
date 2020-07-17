@@ -2,9 +2,9 @@
 class Database
 {
     private static $dbName = 'woodcalcdb' ;
-    private static $dbHost = 'localhost' ;
-    private static $dbUsername = 'root';
-    private static $dbUserPassword = 'admin123';
+    private static $dbHost = 'host' ;
+    private static $dbUsername = 'user';
+    private static $dbUserPassword = 'passwd';
      
     private static $cont  = null;
      
